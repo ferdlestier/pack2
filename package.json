@@ -9,6 +9,6 @@
   "author": "ferdlestier",
   "license": "ISC",
   "dependencies": {
-    "vite": "2.7.1"
+    "vite": "2.9.17"
   }
 }
