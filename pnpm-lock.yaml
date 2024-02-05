@@ -1,0 +1,8 @@
+dependencies:
+  vite:
+    resolution:
+      integrity: sha512-BTC0dVkmUtrmEhA3QIcuk+tHzm0/ff4ZDwbt/2FRRFGR51oucpkYwUi8gn4iSsOrXZfgNj5tOPwScOuZsl1yTg==
+    id: localhost+4b31b52910a9a5651aa5b19f1f4d694d227d8c99
+    name: vite
+    version: 2.7.1
+    dependencies: {}
